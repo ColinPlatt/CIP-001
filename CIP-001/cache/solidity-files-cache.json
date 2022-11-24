@@ -12,7 +12,7 @@
   },
   "files": {
     "lib/forge-std/lib/ds-test/src/test.sol": {
-      "lastModificationDate": 1669158683529,
+      "lastModificationDate": 1669301438880,
       "contentHash": "962996f0e05d5218857a538a62d7c47e",
       "sourceName": "lib/forge-std/lib/ds-test/src/test.sol",
       "solcConfig": {
@@ -47,12 +47,12 @@
       "versionRequirement": ">=0.5.0",
       "artifacts": {
         "DSTest": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "test.sol/DSTest.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "test.sol/DSTest.json"
         }
       }
     },
     "lib/forge-std/src/Script.sol": {
-      "lastModificationDate": 1669158683530,
+      "lastModificationDate": 1669301438880,
       "contentHash": "571dde8775a6214a03d6772ee330ead5",
       "sourceName": "lib/forge-std/src/Script.sol",
       "solcConfig": {
@@ -92,12 +92,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Script.sol/Script.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Script.sol/Script.json"
         }
       }
     },
     "lib/forge-std/src/StdJson.sol": {
-      "lastModificationDate": 1669158683530,
+      "lastModificationDate": 1669301438880,
       "contentHash": "75c782f20a301ab9827060a03da071e4",
       "sourceName": "lib/forge-std/src/StdJson.sol",
       "solcConfig": {
@@ -134,12 +134,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "StdJson.sol/stdJson.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "StdJson.sol/stdJson.json"
         }
       }
     },
     "lib/forge-std/src/Test.sol": {
-      "lastModificationDate": 1669158683531,
+      "lastModificationDate": 1669301438880,
       "contentHash": "6cab65c53a9548c2428a10697fd06dd1",
       "sourceName": "lib/forge-std/src/Test.sol",
       "solcConfig": {
@@ -181,21 +181,21 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Test": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/Test.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Test.sol/Test.json"
         },
         "stdError": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/stdError.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Test.sol/stdError.json"
         },
         "stdMath": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/stdMath.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Test.sol/stdMath.json"
         },
         "stdStorage": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Test.sol/stdStorage.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Test.sol/stdStorage.json"
         }
       }
     },
     "lib/forge-std/src/Vm.sol": {
-      "lastModificationDate": 1669158683531,
+      "lastModificationDate": 1669301438880,
       "contentHash": "4260ba1200fd6c8f55a0ee9935f2d3d0",
       "sourceName": "lib/forge-std/src/Vm.sol",
       "solcConfig": {
@@ -230,12 +230,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Vm.sol/Vm.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Vm.sol/Vm.json"
         }
       }
     },
     "lib/forge-std/src/console.sol": {
-      "lastModificationDate": 1669158683532,
+      "lastModificationDate": 1669301438880,
       "contentHash": "100b8a33b917da1147740d7ab8b0ded3",
       "sourceName": "lib/forge-std/src/console.sol",
       "solcConfig": {
@@ -270,12 +270,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console.sol/console.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "console.sol/console.json"
         }
       }
     },
     "lib/forge-std/src/console2.sol": {
-      "lastModificationDate": 1669158683532,
+      "lastModificationDate": 1669301438880,
       "contentHash": "5df91f8e93efbfcccf68973dc1b74a70",
       "sourceName": "lib/forge-std/src/console2.sol",
       "solcConfig": {
@@ -310,12 +310,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "console2.sol/console2.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "console2.sol/console2.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1669158683557,
+      "lastModificationDate": 1669301438910,
       "contentHash": "e436cea06129be2c73cda4b1acc848b5",
       "sourceName": "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -352,12 +352,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Ownable": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Ownable.sol/Ownable.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Ownable.sol/Ownable.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1669158683611,
+      "lastModificationDate": 1669301438970,
       "contentHash": "787fc2ada0d526efdac3e3ed2960701d",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
@@ -402,12 +402,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "ERC721": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ERC721.sol/ERC721.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "ERC721.sol/ERC721.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1669158683611,
+      "lastModificationDate": 1669301438970,
       "contentHash": "952fbc12807f8b64cd57263df438bd27",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
@@ -444,12 +444,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC721": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IERC721.sol/IERC721.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "IERC721.sol/IERC721.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1669158683611,
+      "lastModificationDate": 1669301438970,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
@@ -484,12 +484,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC721Receiver": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IERC721Receiver.sol/IERC721Receiver.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "IERC721Receiver.sol/IERC721Receiver.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Enumerable.sol": {
-      "lastModificationDate": 1669158683612,
+      "lastModificationDate": 1669301438970,
       "contentHash": "ac3d6a3189283a50ea2872fce4219d01",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
       "solcConfig": {
@@ -536,12 +536,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "ERC721Enumerable": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ERC721Enumerable.sol/ERC721Enumerable.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "ERC721Enumerable.sol/ERC721Enumerable.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Enumerable.sol": {
-      "lastModificationDate": 1669158683613,
+      "lastModificationDate": 1669301438970,
       "contentHash": "f4dd06783f321aa26179bc2b6e361c29",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
       "solcConfig": {
@@ -579,12 +579,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC721Enumerable": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IERC721Enumerable.sol/IERC721Enumerable.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "IERC721Enumerable.sol/IERC721Enumerable.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1669158683613,
+      "lastModificationDate": 1669301438970,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
@@ -622,12 +622,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC721Metadata": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IERC721Metadata.sol/IERC721Metadata.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "IERC721Metadata.sol/IERC721Metadata.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/Address.sol": {
-      "lastModificationDate": 1669158683616,
+      "lastModificationDate": 1669301438980,
       "contentHash": "02560bbb9e081911e486286da3fa761f",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/Address.sol",
       "solcConfig": {
@@ -662,12 +662,12 @@
       "versionRequirement": "^0.8.1",
       "artifacts": {
         "Address": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Address.sol/Address.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Address.sol/Address.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/Context.sol": {
-      "lastModificationDate": 1669158683617,
+      "lastModificationDate": 1669301438980,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/Context.sol",
       "solcConfig": {
@@ -702,12 +702,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Context": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Context.sol/Context.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Context.sol/Context.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/Counters.sol": {
-      "lastModificationDate": 1669158683617,
+      "lastModificationDate": 1669301438980,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/Counters.sol",
       "solcConfig": {
@@ -742,12 +742,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Counters": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Counters.sol/Counters.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Counters.sol/Counters.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1669158683618,
+      "lastModificationDate": 1669301438980,
       "contentHash": "a0c595fbbddc5c8b4f45c5f496ad90ff",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -784,12 +784,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Strings": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Strings.sol/Strings.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Strings.sol/Strings.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1669158683620,
+      "lastModificationDate": 1669301438990,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
@@ -826,12 +826,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "ERC165": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "ERC165.sol/ERC165.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "ERC165.sol/ERC165.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1669158683621,
+      "lastModificationDate": 1669301438990,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -866,12 +866,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "IERC165": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "IERC165.sol/IERC165.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "IERC165.sol/IERC165.json"
         }
       }
     },
     "lib/openzeppelin-contracts/contracts/utils/math/Math.sol": {
-      "lastModificationDate": 1669158683622,
+      "lastModificationDate": 1669301438990,
       "contentHash": "0330d7606b25d35159d0fdfa345ae87f",
       "sourceName": "lib/openzeppelin-contracts/contracts/utils/math/Math.sol",
       "solcConfig": {
@@ -906,12 +906,12 @@
       "versionRequirement": "^0.8.0",
       "artifacts": {
         "Math": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Math.sol/Math.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Math.sol/Math.json"
         }
       }
     },
     "script/Turnstile.s.sol": {
-      "lastModificationDate": 1669104248390,
+      "lastModificationDate": 1669301439130,
       "contentHash": "8e5e91b4c750ddd2b3712a92040480b7",
       "sourceName": "script/Turnstile.s.sol",
       "solcConfig": {
@@ -967,12 +967,12 @@
       "versionRequirement": "=0.8.17",
       "artifacts": {
         "TurnstileScript": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Turnstile.s.sol/TurnstileScript.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Turnstile.s.sol/TurnstileScript.json"
         }
       }
     },
     "src/Turnstile.sol": {
-      "lastModificationDate": 1669104248390,
+      "lastModificationDate": 1669301439130,
       "contentHash": "5b5bd3dececed3727abff87e35ce5e68",
       "sourceName": "src/Turnstile.sol",
       "solcConfig": {
@@ -1022,12 +1022,66 @@
       "versionRequirement": "=0.8.17",
       "artifacts": {
         "Turnstile": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Turnstile.sol/Turnstile.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Turnstile.sol/Turnstile.json"
+        }
+      }
+    },
+    "src/TurnstileSupply.sol": {
+      "lastModificationDate": 1669306586540,
+      "contentHash": "c2b5cf56e6e8c80df5b98906a8c55e39",
+      "sourceName": "src/TurnstileSupply.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721Receiver.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Address.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Strings.sol",
+        "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol",
+        "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
+        "lib/openzeppelin-contracts/contracts/utils/math/Math.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "Turnstile": {
+          "0.8.17+commit.8df45f5f.Linux.gcc": "TurnstileSupply.sol/Turnstile.json"
         }
       }
     },
     "test/Turnstile.t.sol": {
-      "lastModificationDate": 1669104248390,
+      "lastModificationDate": 1669301439130,
       "contentHash": "b89d52cc9f114e028b027ab59fb3c9ba",
       "sourceName": "test/Turnstile.t.sol",
       "solcConfig": {
@@ -1085,10 +1139,75 @@
       "versionRequirement": "=0.8.17",
       "artifacts": {
         "ReceiveSmartContract": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Turnstile.t.sol/ReceiveSmartContract.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Turnstile.t.sol/ReceiveSmartContract.json"
         },
         "TurnstileTest": {
-          "0.8.17+commit.8df45f5f.Darwin.appleclang": "Turnstile.t.sol/TurnstileTest.json"
+          "0.8.17+commit.8df45f5f.Linux.gcc": "Turnstile.t.sol/TurnstileTest.json"
+        }
+      }
+    },
+    "test/TurnstileSupply.t.sol": {
+      "lastModificationDate": 1669306736150,
+      "contentHash": "17e1d9d422bbf00eedb8456492d8d1fb",
+      "sourceName": "test/TurnstileSupply.t.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/forge-std/lib/ds-test/src/test.sol",
+        "lib/forge-std/src/Script.sol",
+        "lib/forge-std/src/StdJson.sol",
+        "lib/forge-std/src/Test.sol",
+        "lib/forge-std/src/Vm.sol",
+        "lib/forge-std/src/console.sol",
+        "lib/forge-std/src/console2.sol",
+        "lib/openzeppelin-contracts/contracts/access/Ownable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/ERC721.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/IERC721Receiver.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
+        "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Address.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Context.sol",
+        "lib/openzeppelin-contracts/contracts/utils/Strings.sol",
+        "lib/openzeppelin-contracts/contracts/utils/introspection/ERC165.sol",
+        "lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol",
+        "lib/openzeppelin-contracts/contracts/utils/math/Math.sol",
+        "src/TurnstileSupply.sol"
+      ],
+      "versionRequirement": "=0.8.17",
+      "artifacts": {
+        "ReceiveSmartContract": {
+          "0.8.17+commit.8df45f5f.Linux.gcc": "TurnstileSupply.t.sol/ReceiveSmartContract.json"
+        },
+        "TurnstileTest": {
+          "0.8.17+commit.8df45f5f.Linux.gcc": "TurnstileSupply.t.sol/TurnstileTest.json"
         }
       }
     }
